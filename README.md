@@ -5,10 +5,10 @@ Quando um usuário acessar o nginx, o mesmo fará uma chamada em nossa aplicaç�
 O retorno da aplicação node.js para o nginx deverá ser uma listagem contendo os dados cadastrados no banco de dados
 
 ## Tecnologias
-- (https://nodejs.org/en/)[NodeJS]
-- (https://www.mysql.com)[MySQL]
-- (https://www.nginx.com)[NGINX]
-- (https://www.docker.com)[Docker]
+- [NodeJS](https://nodejs.org/en/)
+- [MySQL](https://www.mysql.com)
+- [NGINX](https://www.nginx.com)
+- [Docker](https://www.docker.com)
 
 ## 🚀 Como executar
 ```bash
@@ -21,4 +21,4 @@ cd docker-compose-desafio-mysql-node-nginx
 # Inicio os containers
 docker-compose up -d --build
 ```
-Acesse (http://localhost:8080/)[localhost:8080]
+Acesse [localhost:8080](http://localhost:8080/)
