@@ -4,7 +4,7 @@
 Quando um usuário acessar o nginx, o mesmo fará uma chamada em nossa aplicação node.js. Essa aplicação por sua vez adicionará um registro em nosso banco de dados mysql, cadastrando um nome na tabela people.
 O retorno da aplicação node.js para o nginx deverá ser uma listagem contendo os dados cadastrados no banco de dados
 
-## Tecnologias
+## 🧪 Tecnologias
 - [NodeJS](https://nodejs.org/en/)
 - [MySQL](https://www.mysql.com)
 - [NGINX](https://www.nginx.com)
